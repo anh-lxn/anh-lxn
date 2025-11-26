@@ -7,9 +7,9 @@ On this GitHub, I share small projects, experiments, and engineering tools I wor
 ---
 
 ### Projects
-- [IMU Test Stand](https://github.com/teststand-imu)
-- [Membrane ML Demonstrator](https://github.com/memo)
-- [My Machine Learning Journey](https://github.com/machine-learning)
+- [IMU Test Stand](https://github.com/anh-lxn/teststand-imu)
+- [Membrane ML Demonstrator](https://github.com/anh-lxn/memo)
+- [My Machine Learning Journey](https://github.com/anh-lxn/machine-learning)
 
 ---
 
