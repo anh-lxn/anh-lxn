@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anh 👋
 
-<!--
-**anh-lxn/anh-lxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an energy engineering student at TU Dresden currently exploring how data engineering and machine learning can support engineering and simulation workflows.
 
-Here are some ideas to get you started:
+On this GitHub, I share small projects, experiments, and engineering tools I work on alongside my studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+- [IMU Test Stand](https://github.com/teststand-imu)
+- [Membrane ML Demonstrator](https://github.com/memo)
+- [My Machine Learning Journey](https://github.com/machine-learning)
+
+---
+
+### Contact
+- [Website](https://anhlexuan.com/)
+- [LinkedIn](https://www.linkedin.com/in/anh-lexuan/)
